@@ -1,0 +1,97 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "32ea7de55ea8c32d88d2",
+  "publicPath": "/static/",
+  "outputPath": "/Users/huntegw6/Practice/alt-live/build/static",
+  "assetsByChunkName": {
+    "alt-live": "alt-live.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "alt-live.module.js",
+      "size": 9425756,
+      "chunks": [
+        "alt-live"
+      ],
+      "chunkNames": [
+        "alt-live"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/alt-live-logo-large.png",
+      "size": 8631,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/party.jpg",
+      "size": 1236987,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47713,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "alt-live": {
+      "chunks": [
+        "alt-live"
+      ],
+      "assets": [
+        "alt-live.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "alt-live": {
+      "chunks": [
+        "alt-live"
+      ],
+      "assets": [
+        "alt-live.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
