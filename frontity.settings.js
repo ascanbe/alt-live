@@ -37,7 +37,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "http://www.alt-live.co.uk/wp-json",
+          "api": "https://wp.alt-live.co.uk/wp-json",
           "homepage": "/homepage"
         }
       }
